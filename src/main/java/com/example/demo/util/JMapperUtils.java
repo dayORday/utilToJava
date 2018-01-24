@@ -10,10 +10,6 @@ import java.util.stream.Collectors;
  * 1.使用前需要引入相关jar包 ：jmapper-core
  * 2.源类上需要引入@JMap(attributes = {"fileId"}, classes = {destionation.class}) ||  @JGlobalMap(excluded = {""})
  * @version 1.0 
- * @since JDK1.8 
- * @author zhangjingtao 
- * @company 洛阳艾克科技有限公司 
- * @copyright (c) 2018 LuoYang ARC Co'Ltd Inc. All rights reserved. 
  * @date 2018年1月24日 下午2:51:59
  */
 

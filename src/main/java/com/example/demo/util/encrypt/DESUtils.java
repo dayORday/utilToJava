@@ -12,9 +12,6 @@ import java.security.SecureRandom;
  * 
  * @version 1.0 
  * @since JDK1.7 
- * @author zhangjingtao 
- * @company 洛阳艾克科技有限公司 
- * @copyright (c) 2018 LuoYang ARC Co'Ltd Inc. All rights reserved. 
  * @date 2018年1月18日 下午5:12:28
  */
 public class DESUtils {

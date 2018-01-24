@@ -9,9 +9,6 @@ import java.util.regex.Pattern;
  * 
  * @version 1.0 
  * @since JDK1.8 
- * @author zhangjingtao 
- * @company 洛阳艾克科技有限公司 
- * @copyright (c) 2018 LuoYang ARC Co'Ltd Inc. All rights reserved. 
  * @date 2018年1月24日 下午1:43:17
  */
 

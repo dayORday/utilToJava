@@ -10,9 +10,6 @@ import java.util.Map;
  * 
  * @version 1.0 
  * @since JDK1.7 
- * @author zhangjingtao 
- * @company 洛阳艾克科技有限公司 
- * @copyright (c) 2018 LuoYang ARC Co'Ltd Inc. All rights reserved. 
  * @date 2018年1月17日 下午4:27:13
  */
 
