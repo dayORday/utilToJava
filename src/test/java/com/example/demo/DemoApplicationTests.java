@@ -11,6 +11,7 @@ public class DemoApplicationTests {
 
 	@Test
 	public void contextLoads() {
+	    System.out.println("秘钥信息：LTAItcttqFE8gagy");
 	}
 
 }
